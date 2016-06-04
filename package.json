@@ -1,0 +1,10 @@
+{
+  "name": "Group Chat",
+  "description": "Sample Express Application to test out using Package.json to install dependencies",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}

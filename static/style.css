@@ -1,0 +1,38 @@
+
+.container{
+  width: 500px;
+  height: 500px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+#board{
+  height: 400px;
+  min-width: 400px;
+  border: 1px solid silver;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.messages{
+  margin-top: 10px;
+  min-width: 400px;
+}
+#message{
+  width: 400px;
+  padding-left: 10px;
+  height: 34px;
+}
+
+#blue{
+  color: #25649F;
+}
+
+#board{
+  overflow:auto;
+  top:0;
+  bottom:3em;
+}
